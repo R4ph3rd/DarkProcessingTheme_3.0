@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/jeffThompson/DarkProcessingTheme_3.0/master/screenshot.png)
+![screenshot](./screenshot.png)
 
 Dark Processing Theme (for 3.0)
 ===================
